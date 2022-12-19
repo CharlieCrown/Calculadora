@@ -19,9 +19,7 @@ Para esta practica se debe hacer una calculadora con las siguientes operaciones:
 
 ## Te dejo algunas capturas de pantalla de la calculadora
 
-***También puedes ir al link directo, ¡vamos vela tú mismo! :eyes: :point_right: [LINK]()***
+***También puedes ir al link directo, ¡vamos vela tú mismo! :eyes: :point_right: [LINK](https://charliecrown.github.io/Calculadora/)***
 
 <img src="./IMG/calcu1.PNG" alt="Operacion" height="500">
 <img src="./IMG/calcu2.PNG" alt="Resultado" height="500">
-
-[Volver al menú &ldca;](../README.md "Regresar a página principal")
